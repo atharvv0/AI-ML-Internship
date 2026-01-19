@@ -1,12 +1,8 @@
 # AI-ML-Internship
 Repository For AI & ML Internship Tasks.
 
-This repository contains the completed tasks assigned as part of an AI & Machine Learning Internship.
-The work focuses on building practical, end-to-end machine learning projects, covering both numerical data classification and text-based spam detection using NLP.
+README — Task 1: Iris Flower Classification
 
-The goal of this repository is to demonstrate:
-
-Clear understanding of ML workflows📘 README — Task 1: Iris Flower Classification
 🌸 Iris Flower Classification (Machine Learning)
 
 This project is part of the AI & Machine Learning Internship tasks.
