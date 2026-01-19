@@ -1,6 +1,5 @@
 # AI-ML-Internship
-Repository For Tasks of AI-ML Internship 
-AI & ML Internship Tasks 🚀
+Repository for AI & ML Internship Tasks.
 
 This repository contains the completed tasks assigned as part of an AI & Machine Learning Internship.
 The work focuses on building practical, end-to-end machine learning projects, covering both numerical data classification and text-based spam detection using NLP.
